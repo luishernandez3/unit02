@@ -1,3 +1,8 @@
+/**
+ * Jose Hernandez,stringMani.kt,2/12
+ * 
+ */
+
 fun main() {
     print("Please, enter the name of your favorite city: ")
     var city= "Morelia"

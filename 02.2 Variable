@@ -1,0 +1,16 @@
+fun main() {
+    val myAge = 30
+    var averageAge = 30.0
+    averageAge = (averageAge + myAge) / 2
+
+    val testNumber = 7
+    val evenOdd = testNumber % 2
+    println("The result of the test number % 2 is $evenOdd")
+
+    var answer = 0
+    answer += 1
+    answer += 10
+    answer *= 10
+    answer = answer.shr(3)
+    println("The final value of answer is $answer")
+}
